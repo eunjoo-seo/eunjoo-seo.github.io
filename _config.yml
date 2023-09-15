@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunjoo Seo - Learning models for Business"
+title                    : "Eunjoo Seo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunjoo Seo"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Eunjoo Seo"
   avatar           : "assets/KakaoTalk_20230903_100830960-1.jpg"
-  bio              : "Undergrad at Korea University."
-  location         : "Somewhere"
-  email            :
+  bio              : "Undergrad at Korea University. Build learning models that are explainable and meaningful to business by Statistics."
+  location         : "Seoul, Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
