@@ -12,20 +12,20 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunjoo Seo"
+title                    : "Welcome!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunjoo Seo"
-description              : "Build learning models that are explainable and meaningful to business by statistics"
+description              : # "Undergraduate in Statistics and Economics, Korea University"
 url                      : "https://eunjoo-seo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : eunjoo-seo/eunjoo-seo.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # 학교 로고 넣으면 될 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Eunjoo Seo"
   avatar           : "assets/KakaoTalk_20230903_100830960-1.jpg"
-  bio              : "Undergrad at Korea University. Build learning models that are explainable and meaningful to business by Statistics."
+  bio              : "Undergraduate in Statistics and Economics, Korea University"
   location         : "Seoul, Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:seo.e.j29@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
