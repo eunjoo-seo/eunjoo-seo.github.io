@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "CV"
-    url: '_data/CV_ESeo.pdf'
+    url: _data/CV_ESeo.pdf
   - title: "Research"
     url: /year-archive/
   - title: "Others"
