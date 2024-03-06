@@ -1,8 +1,8 @@
 ---
-title:
+title: Welcome to my website 🤗
 layout: single
 author_profile: true
-excerpt: Welcome to my website 🤗
+excerpt: 
 header:
 ---
 ## Bio
