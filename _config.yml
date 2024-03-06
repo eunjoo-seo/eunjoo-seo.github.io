@@ -114,7 +114,7 @@ author:
       icon: "ai ai-google-scholar"
       # url: "https://twitter.com/"
     - label: " LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/eunjoo-seo-47b773212/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
