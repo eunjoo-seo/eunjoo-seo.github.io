@@ -2,7 +2,7 @@
 title:
 layout: single
 author_profile: true
-excerpt: 
+excerpt: Welcome to my website 🤗
 header:
 ---
 ## Bio
@@ -12,4 +12,4 @@ My latest version of CV is here:
 
 ## News
 
-## Publications
+
