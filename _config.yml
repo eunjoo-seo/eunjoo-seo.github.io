@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunjoo's Website"
+title                    : 
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Eunjoo Seo"
+name                     : "Eunjoo Seo | Home"
 description              : # "Undergraduate in Statistics and Economics, Korea University"
 url                      : "https://eunjoo-seo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : eunjoo-seo/eunjoo-seo.github.io
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/photos/ug_grad.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
