@@ -105,23 +105,20 @@ analytics:
 # Site Author
 author:
   name             : "Eunjoo Seo"
-  avatar           : "assets/KakaoTalk_20230903_100830960-1.jpg"
+  avatar           : "assets/ug_grad.jpg"
   bio              : "Undergraduate in Statistics and Economics, Korea University"
   location         : "Seoul, Korea"
-  email            : 
+  email            : "eunjseo <at> iu.edu"
   links:
     - label: "Google Scholar"
-      # icon: " "
+      icon: "ai ai-google-scholar"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "www.linkedin.com/in/eunjoo-seo-47b773212"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/eunjoo-seo"
 
 # Site Footer
 footer:
