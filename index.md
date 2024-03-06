@@ -1,8 +1,8 @@
 ---
-title: Hi, I'm Eunjoo 🤗
+title: Eunjoo Seo - Home
 layout: single
 author_profile: true
-excerpt:  
+excerpt: Hi, welcome to my website 🤗 
 header:
 ---
 ## Bio 
