@@ -25,7 +25,7 @@ url                      : "https://eunjoo-seo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : eunjoo-seo/eunjoo-seo.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # 학교 로고 넣으면 될 path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -105,9 +105,9 @@ analytics:
 # Site Author
 author:
   name             : "Eunjoo Seo"
-  avatar           : "assets/ug_grad.jpg"
-  bio              : "Undergraduate in Statistics and Economics, Korea University"
-  location         : "Seoul, Korea"
+  avatar           : "/assets/ug_grad.jpg"
+  bio              : "Ph.D. Student at IUB"
+  location         : #
   email            : "eunjseo <at> iu.edu"
   links:
     - label: "Google Scholar"
