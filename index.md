@@ -1,5 +1,5 @@
 ---
-title: Eunjoo Seo | Home 
+title: 
 layout: single
 author_profile: true
 excerpt: Eunjoo Seo | Home 
