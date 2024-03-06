@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eunjoo Seo | Home"
+title                    : ""
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Eunjoo Seo | Home"
+name                     : ""
 description              : # "Undergraduate in Statistics and Economics, Korea University"
 url                      : "https://eunjoo-seo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
