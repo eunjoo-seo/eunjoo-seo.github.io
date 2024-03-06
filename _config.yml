@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Eunjoo Seo"
   avatar           : "/assets/ug_grad.jpg"
-  bio              : "Ph.D. Student at IUB"
+  bio              : "Ph.D. Student at IUB <br> eunjseo <at> iu.edu"
   location         : #
-  email            : "eunjseo <at> iu.edu"
+  email            : #
   links:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
