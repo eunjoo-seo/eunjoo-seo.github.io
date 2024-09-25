@@ -24,7 +24,7 @@ description              : # "Undergraduate in Statistics and Economics, Korea U
 url                      : "https://eunjoo-seo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : eunjoo-seo/eunjoo-seo.github.io
-teaser                   : "/assets/photos/ug_grad.jpg"
+teaser                   : "/assets/photos/KSBEunjooSeo_20240822_004.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : ""
 # breadcrumbs            : false # true, false (default)
