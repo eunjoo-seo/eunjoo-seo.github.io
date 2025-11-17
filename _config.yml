@@ -22,8 +22,8 @@ linkedin: https://www.linkedin.com/in/eunjoo-seo-47b773212/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/chicago2025.png
-favicon: ./assets/img/tree.png
-favicon_dark: ./assets/img/tree.png
+favicon: ./assets/img/iu.png
+favicon_dark: ./assets/img/iu.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
