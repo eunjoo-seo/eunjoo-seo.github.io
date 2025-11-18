@@ -8,5 +8,5 @@ I am EJ, a Ph.D. student in Information Systems at Department of Operations and 
 
 ## News
 - **[Nov 2025]** Served as a panelist for a [discussion](https://events.iu.edu/cewit/event/2070944-ai-dating-the-future-of-relationships) on AI and dating, hosted by IU Center of Excellence for Women & Technology.
-- **[Jul 2025]** Presented a paper at the Korean Chapter of the Association for Information Systems (KrAIS) Summer [Workshop](https://sites.google.com/view/krais-summer2025/home?authuser=0), Busan, Korea.
+- **[Jul 2025]** Presented a paper at the Korean Chapter of the Association for Information Systems (KrAIS) Summer [workshop](https://sites.google.com/view/krais-summer2025/home?authuser=0), Busan, Korea.
 - **[Aug 2024]** Joined IU Kelley!
