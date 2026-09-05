@@ -207,22 +207,20 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
-    }
-
-      .image.avatar:before {
-        display: none;
-      }
-
-      .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-      }
-
+  border-radius: 0.35em;   /* was 100% — this is what makes it circular */
+}
+  .image.avatar:before {
+    display: none;
+  }
+  .image.avatar img {
+    border-radius: 0.35em;  /* was 100% */
+    width: 100%;             /* was 45% — 45% of the container left it tiny with a big padding gap */
+    padding: 20px;
+  }
+#header .image.avatar {
+  margin: 0 0 1em 0;
+  width: 14em;   /* was 8.00em — bump this up for "large"; tweak to taste */
+}
 h3, h4, h5, h6 {
   font-weight: 600;
   color:#043361;
