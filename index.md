@@ -7,7 +7,7 @@ layout: homepage
 I am EJ, a third year Ph.D. student in Information Systems at Department of Operations and Decision Technologies at Kelley School of Business at [Indiana University Bloomington](https://bloomington.iu.edu/index.html), advised by [Dr. Antino Kim](https://kelley.iu.edu/faculty-research/faculty-directory/profile.html?id=antino). Previously, I received my Bachelor's degree in Statistics and Economics from [Korea University](https://www.korea.edu/sites/en/index.do) in 2024. Also, I spent a year at [McGill University](https://www.mcgill.ca/) as a research intern. I mainly work on AI-mediated communication using lab/field experiments and econometrics.
 
 ## News
-- **[Jan 2027]** Presented at [HICSS](https://hicss.hawaii.edu/), Big Island, HI!
+- **[Jan 2027]** Will be presenting at [HICSS](https://hicss.hawaii.edu/), Big Island, HI!
 - **[Nov 2026]** Presented at [INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/), San Francisco, CA!
 - **[Oct 2026]** Presented at [CIST](https://cist2026.github.io/), San Francisco, CA!
 - **[Aug 2026]** Started teaching BUS-S364 BUSINESS DATA PROGRAMMING for undergraduate students.
